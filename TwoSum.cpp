@@ -13,10 +13,10 @@ public:
 
     // store indexes 
 
-    //27331214
+  
 
   vector<int>  resultNums ;
-    //   sort(nums.begin(), nums.end());
+  
 int length = nums.size() ;
   cout<<nums.size() <<endl ;
 
